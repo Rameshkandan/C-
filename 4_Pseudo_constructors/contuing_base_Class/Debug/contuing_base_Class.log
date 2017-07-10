@@ -1,5 +1,0 @@
-﻿  count.cpp
-c:\users\hi\documents\visual studio 2015\projects\contuing_base_class\contuing_base_class\count.cpp(21): warning C4624: 'B': destructor was implicitly defined as deleted
-c:\users\hi\documents\visual studio 2015\projects\contuing_base_class\contuing_base_class\count.cpp(34): warning C4101: 'y': unreferenced local variable
-  contuing_base_Class.vcxproj -> C:\Users\hi\Documents\Visual Studio 2015\Projects\contuing_base_Class\Debug\contuing_base_Class.exe
-  contuing_base_Class.vcxproj -> C:\Users\hi\Documents\Visual Studio 2015\Projects\contuing_base_Class\Debug\contuing_base_Class.pdb (Partial PDB)
