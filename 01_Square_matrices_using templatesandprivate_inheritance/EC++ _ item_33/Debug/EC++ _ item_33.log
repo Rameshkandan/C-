@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EC++ _ item_33.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  square_mat_wrking.cpp
+  EC++ _ item_33.vcxproj -> C:\Users\hi\Documents\Visual Studio 2015\Projects\EC++ _ item_33\Debug\square_mat_Wrking.exe
+  EC++ _ item_33.vcxproj -> C:\Users\hi\Documents\Visual Studio 2015\Projects\EC++ _ item_33\Debug\square_mat_Wrking.pdb (Partial PDB)

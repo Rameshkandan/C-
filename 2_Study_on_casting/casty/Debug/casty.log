@@ -1,0 +1,5 @@
+﻿  casting.cpp
+c:\users\hi\documents\visual studio 2015\projects\casty\casty\casting.cpp(26): warning C4101: 'R': unreferenced local variable
+c:\users\hi\documents\visual studio 2015\projects\casty\casty\casting.cpp(31): warning C4101: 'pw2': unreferenced local variable
+  casty.vcxproj -> C:\Users\hi\Documents\Visual Studio 2015\Projects\casty\Debug\casty.exe
+  casty.vcxproj -> C:\Users\hi\Documents\Visual Studio 2015\Projects\casty\Debug\casty.pdb (Partial PDB)

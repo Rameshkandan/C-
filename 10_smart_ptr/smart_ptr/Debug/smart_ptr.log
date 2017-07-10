@@ -1,0 +1,8 @@
+﻿  smart_ptr_prog.cpp
+c:\users\hi\documents\visual studio 2015\projects\smart_ptr\smart_ptr\smart_ptr_prog.cpp(69): error C2665: 'Smartptr<Top>::Smartptr': none of the 2 overloads could convert all the argument types
+  c:\users\hi\documents\visual studio 2015\projects\smart_ptr\smart_ptr\smart_ptr_prog.cpp(34): note: could be 'Smartptr<Top>::Smartptr(Smartptr<Top> &)'
+  c:\users\hi\documents\visual studio 2015\projects\smart_ptr\smart_ptr\smart_ptr_prog.cpp(32): note: or       'Smartptr<Top>::Smartptr(void)'
+  c:\users\hi\documents\visual studio 2015\projects\smart_ptr\smart_ptr\smart_ptr_prog.cpp(69): note: while trying to match the argument list '(E *)'
+c:\users\hi\documents\visual studio 2015\projects\smart_ptr\smart_ptr\smart_ptr_prog.cpp(71): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Top *' (or there is no acceptable conversion)
+  c:\users\hi\documents\visual studio 2015\projects\smart_ptr\smart_ptr\smart_ptr_prog.cpp(62): note: could be 'Smartptr<Top> &Smartptr<Top>::operator =(const Smartptr<Top> &)'
+  c:\users\hi\documents\visual studio 2015\projects\smart_ptr\smart_ptr\smart_ptr_prog.cpp(71): note: while trying to match the argument list '(Smartptr<Top>, Top *)'
